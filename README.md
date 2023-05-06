@@ -18,21 +18,21 @@ HTML files:
 
 * it has the Deaths and Death Rates of USA, UK and France from different age groups and gender from 2000 to 2020
 
-## About the four interactive Sunburst graphs
+## About the four interactive Sunburst Charts
 
-* total_Sunburst.html : The total sunburst graph (Country, Gender, Age Group, Year; with Deaths and Death Rate)
+* total_Sunburst.html : The total Sunburst Chart that has four hierarchies (Country, Gender, Age Group and Year)
 
 LINK: https://sjy22122.github.io/total_Sunburst.html
 
-* AgeGroup.html : The sub sunburst graph (Country, Age Group, Year; with Deaths and Death Rate)
+* AgeGroup.html : The sub Sunburst Chart that has three hierarchies (Country, Age Group and Year)
 
 LINK: https://sjy22122.github.io/AgeGroup.html
 
-* Gender.html : The sub sunburst graph (Country, Gender, Year; with Deaths and Death Rate)
+* Gender.html : The sub Sunburst Chart that has three hierarchies (Country, Gender and Year)
 
 LINK: https://sjy22122.github.io/Gender.html
 
-* index.html OR COMP4037CW2_ThreeSunburst.html : including all the graphs above in one HTML page
+* index.html OR COMP4037CW2_ThreeSunburst.html : including all the charts above in one HTML page
 
 LINK: https://sjy22122.github.io/index.html  OR
 
