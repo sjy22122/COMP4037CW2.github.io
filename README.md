@@ -22,21 +22,21 @@ HTML files:
 
 * total_Sunburst.html : The total sunburst graph (Country, Gender, Age Group, Year; with Deaths and Death Rate)
 
-LINK: https://sjy22122.github.io/total_Sunburst.html
+LINK: https://COMP4037CW2.github.io/total_Sunburst.html
 
 * AgeGroup.html : The sub sunburst graph (Country, Age Group, Year; with Deaths and Death Rate)
 
-LINK: https://sjy22122.github.io/AgeGroup.html
+LINK: https://COMP4037CW2.github.io/AgeGroup.html
 
 * Gender.html : The sub sunburst graph (Country, Gender, Year; with Deaths and Death Rate)
 
-LINK: https://sjy22122.github.io/Gender.html
+LINK: https://COMP4037CW2.github.io/Gender.html
 
 * index.html OR COMP4037CW2_ThreeSunburst.html : including all the graphs above in one HTML page
 
-LINK: https://sjy22122.github.io/index.html  OR
+LINK: https://COMP4037CW2.github.io/index.html  OR
 
-https://sjy22122.github.io/COMP4037CW2_ThreeSunburst.html
+https://COMP4037CW2.github.io/COMP4037CW2_ThreeSunburst.html
 
 ## How to open the data visualization
 
